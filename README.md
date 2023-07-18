@@ -7,11 +7,11 @@
 https://s3.waw3-1.cloudferro.com/swift/v1/smart_village_mon/datasets/climate/GEE/ghi_n.tif (освітленість)
 
 https://s3.waw3-1.cloudferro.com/swift/v1/smart_village_mon/datasets/climate/GEE/prec_n.tif (опади)
-
+![Screenshot](precipitation.JPG)
 https://s3.waw3-1.cloudferro.com/swift/v1/smart_village_mon/datasets/climate/GEE/temp_n.tif (температура)
 
 https://s3.waw3-1.cloudferro.com/swift/v1/smart_village_mon/datasets/climate/GEE/wind_n.tif (швидкість вітру)
-![Screenshot](wind_speed.JPG )
+![Screenshot](wind_speed.JPG)
 
 ### Екологія
 Дані по рельєфу
