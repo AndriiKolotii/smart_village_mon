@@ -9,8 +9,9 @@ https://s3.waw3-1.cloudferro.com/swift/v1/smart_village_mon/datasets/climate/GEE
 https://s3.waw3-1.cloudferro.com/swift/v1/smart_village_mon/datasets/climate/GEE/prec_n.tif (опади)
 
 https://s3.waw3-1.cloudferro.com/swift/v1/smart_village_mon/datasets/climate/GEE/temp_n.tif (температура)
- 
+
 https://s3.waw3-1.cloudferro.com/swift/v1/smart_village_mon/datasets/climate/GEE/wind_n.tif (швидкість вітру)
+![Screenshot](wind_speed.JPG )
 
 ### Екологія
 Дані по рельєфу
