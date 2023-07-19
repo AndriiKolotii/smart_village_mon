@@ -10,6 +10,7 @@ https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONT
 Підготовлені дані по температурі повітря, швидкості вітру, опадам, освітленості земної поверхні
 
 https://s3.waw3-1.cloudferro.com/swift/v1/smart_village_mon/datasets/climate/GEE/ghi_n.tif (освітленість)
+![Screenshot](insolation.JPG)
 
 https://s3.waw3-1.cloudferro.com/swift/v1/smart_village_mon/datasets/climate/GEE/prec_n.tif (опади)
 ![Screenshot](precipitation.JPG)
