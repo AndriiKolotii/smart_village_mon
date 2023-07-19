@@ -1,7 +1,12 @@
 # ІНФОРМАЦІЙНІ ТЕХНОЛОГІЇ ГЕОПРОСТОРОВОГО АНАЛІЗУ РОЗВИТКУ СІЛЬСЬКИХ ТЕРИТОРІЙ І ГРОМАД
 ## Код
+### Робоча книга GEE
+https://code.earthengine.google.com/a7fef8406c8afd936426d51ddc0644da
 ## Набори даних
 ### Клімат
+**GEE колекція "ERA5-Land Monthly Aggregated - ECMWF Climate Reanalysis"** 
+https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY_AGGR
+
 Підготовлені дані по температурі повітря, швидкості вітру, опадам, освітленості земної поверхні
 
 https://s3.waw3-1.cloudferro.com/swift/v1/smart_village_mon/datasets/climate/GEE/ghi_n.tif (освітленість)
