@@ -16,6 +16,7 @@ https://s3.waw3-1.cloudferro.com/swift/v1/smart_village_mon/datasets/climate/GEE
 ![Screenshot](precipitation.JPG)
 
 https://s3.waw3-1.cloudferro.com/swift/v1/smart_village_mon/datasets/climate/GEE/temp_n.tif (температура)
+![Screenshot](temperature.JPG)
 
 https://s3.waw3-1.cloudferro.com/swift/v1/smart_village_mon/datasets/climate/GEE/wind_n.tif (швидкість вітру)
 ![Screenshot](wind_speed.JPG)
