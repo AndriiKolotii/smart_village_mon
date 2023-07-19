@@ -22,7 +22,9 @@ https://s3.waw3-1.cloudferro.com/swift/v1/smart_village_mon/datasets/climate/GEE
 ![Screenshot](wind_speed.JPG)
 
 ### Екологія
-Дані по рельєфу
+Дані по рельєфу з **GEE колекції SRTM Digital Elevation Data Version 4**
+https://developers.google.com/earth-engine/datasets/catalog/CGIAR_SRTM90_V4
+
 https://s3.waw3-1.cloudferro.com/swift/v1/smart_village_mon/datasets/ecology/GEE/relief.rar
 ### Економіка
 ### Інфраструктура
